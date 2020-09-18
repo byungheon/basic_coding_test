@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\2017">
+      <UniqueIdentifier>{1ec1c443-867e-4433-82d9-b2bc9c22eb16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2018">
+      <UniqueIdentifier>{5efa40e9-6895-4bd4-b291-5454fe741f9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2019">
+      <UniqueIdentifier>{f07b10b2-d3c4-4af1-b274-3daa8a8c19a9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\2017\2017_auto_completion.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_cache.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_compression.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_dart_game.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_file_sort.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_just_that_music.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_kakao4friends.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_news_clustering.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_n진수_game.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_secret_map.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_shuttlebus.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2017\2017_traffic_adv.cpp">
+      <Filter>Source Files\2017</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_block_game.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_cand_key.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_failure_rate.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_find_route.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_matching_score.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_muzi_eating_show.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2018\2018_openchat.cpp">
+      <Filter>Source Files\2018</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_check_outer.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_converting_bracket.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_key_n_lock.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_move_block.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_pole.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_search_liric.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\2019\2019_string_compression.cpp">
+      <Filter>Source Files\2019</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
