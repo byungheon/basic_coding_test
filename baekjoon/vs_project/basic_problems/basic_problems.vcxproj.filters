@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\day1">
+      <UniqueIdentifier>{9a20498f-6bfd-46a7-b550-487a5f25ddc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\day2">
+      <UniqueIdentifier>{1ebbcb04-bd86-43f9-83e8-67d2363d6679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\day3">
+      <UniqueIdentifier>{465d0c5a-b8bf-48cc-8c31-2bd86e295185}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\day4">
+      <UniqueIdentifier>{2d24809a-6f76-4e97-b053-d0ab3ca80f51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\day5">
+      <UniqueIdentifier>{6c6f7cca-b7af-4253-a076-01ff115d518a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\day1\day1_cardgame_2621.cpp">
+      <Filter>Source Files\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day1\day1_felindrom_1747.cpp">
+      <Filter>Source Files\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day1\day1_layerdown_1652.cpp">
+      <Filter>Source Files\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day1\day1_pluscycle_1110.cpp">
+      <Filter>Source Files\day1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_bluered_10026.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_cabbage_1012.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_computer_virus_2606.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_connected_component_11724.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_find_area_2583.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_lineup_2252.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_make_bridge_2146.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day2\day2_numbering_apt_2667.cpp">
+      <Filter>Source Files\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_bfs_dfs_1260.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_cut_tree_2805.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_destroy_wall_2206.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_find_and_hide_1697.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_goldenisland_2589.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_maze_2178.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_move_knight_7562.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_number_ball_2613.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day3\day3_rotten_tomato_7576.cpp">
+      <Filter>Source Files\day3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_2xn_tile_11726.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_alphabet_1987.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_generate_descriptor_1759.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_good_numbers_2661.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_inequality_2529.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_maximize_gap_10819.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_move_11048.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_move_door.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day4\day4_white_pricness_.cpp">
+      <Filter>Source Files\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day5\day5_get_place_1205.cpp">
+      <Filter>Source Files\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\day5\day5_robot_project_3649.cpp">
+      <Filter>Source Files\day5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
